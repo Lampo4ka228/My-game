@@ -1,0 +1,73 @@
+<style type="text/css" media="all">
+    #clickBtn {
+    background: black;
+    position: absolute;
+    left: 300px;
+    top: 300px;
+    padding: 50px;
+    width: 300px;
+    height: 300px;
+    border-color: orange;
+    border-radius: 50px;
+    border-width: 15px;
+}
+
+#saveBtn {
+    position: absolute;
+    left: 300px;
+    top: 610px;
+    padding: 25px;
+    border-color: orange;
+    border-radius: 50px;
+    border-width: 15px;
+    background: black;
+    color: white;
+}
+
+#resetBtn {
+    position: absolute;
+    padding: 25px;
+    left: 465px;
+    top: 610px;
+    border-color: orange;
+    border-radius: 50px;
+    border-width: 15px;
+    background: black;
+    color: white;
+}
+
+#score {
+    position: absolute;
+    font-size: 50px;
+    color: white;
+}
+
+ #text1 {
+    position: absolute;
+    left: 40%;
+    top: 190px;
+    font-size: 50px;
+    color: white;
+ }
+ 
+ #savedScore {
+    position: absolute;
+    font-size: 25px;
+    left: 54%;
+    top: 220px;
+    color: white;
+ }
+ 
+ #text2 {
+    position: absolute;
+    left: 40%;
+    top: 195px;
+    font-size: 25px;
+    color: white;
+ }
+ 
+  body {
+     background-color: black;
+ }
+
+  </style>
